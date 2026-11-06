@@ -1,4 +1,5 @@
-
+      - name: Dar permissão ao Gradle
+        run: chmod +x ./gradlew
 name: Build MediDraiva APK
 
 on:
