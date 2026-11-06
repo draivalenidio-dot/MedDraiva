@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MediDraiva</string>
+    <string name="tagline">Medical knowledge. Responsible decisions.</string>
+    <string name="greeting">Hello, healthcare professional</string>
+    <string name="home_intro">Clinical tools and learning in one place.</string>
+    <string name="search_hint">Search disease, medicine or test</string>
+    <string name="modules_title">Medical modules</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="saved">Saved</string>
+    <string name="profile">Profile</string>
+    <string name="diagnosis">Clinical decision support</string>
+    <string name="diagnosis_desc">Signs, symptoms and differential diagnosis.</string>
+    <string name="medicines">Medicines</string>
+    <string name="medicines_desc">Indications, mechanisms, doses and contraindications.</string>
+    <string name="calculators">Medical calculators</string>
+    <string name="calculators_desc">Clinical calculations and parameters.</string>
+    <string name="library">Medical library</string>
+    <string name="library_desc">Diseases, guidelines and clinical pathways.</string>
+    <string name="exams">Diagnostic tests</string>
+    <string name="exams_desc">ECG and laboratory tests.</string>
+    <string name="learning">Learning</string>
+    <string name="learning_desc">Clinical cases, quizzes and revision.</string>
+    <string name="module_notice">This module will be developed in upcoming versions.</string>
+    <string name="clinical_safety">Educational decision-support content. It does not replace clinical assessment, local guidelines or professional judgment.</string>
+    <string name="offline_label">Prepared for offline access</string>
+</resources>
